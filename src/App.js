@@ -1,4 +1,3 @@
-/* eslint-disable react/jsx-no-undef */
 import React, { useState, useEffect } from "react";
 import { SearchIcon, SunIcon, CloudIcon } from '@heroicons/react/solid';
 import "./App.css";
